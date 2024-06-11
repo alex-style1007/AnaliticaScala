@@ -3980,3 +3980,5 @@ ADVERTENCIA: Unmatched cancel notification for request id 7490
 2024.06.11 12:15:22 INFO  no build target found for /home/alex/Trabajo/Scala/manejo_de_datos/src/main/scala/com/arkdata/project/data/DataPreprocessor.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.06.11 12:15:28 INFO  no build target found for /home/alex/Trabajo/Scala/manejo_de_datos/src/main/scala/com/arkdata/project/models/ModelEvaluator.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.06.11 12:15:34 INFO  no build target found for /home/alex/Trabajo/Scala/manejo_de_datos/src/main/scala/com/arkdata/project/models/ModelTrainer.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.11 12:17:14 INFO  no build target found for /home/alex/Trabajo/Scala/manejo_de_datos/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.11 12:18:26 INFO  no build target found for /home/alex/Trabajo/Scala/manejo_de_datos/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
