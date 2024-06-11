@@ -9,9 +9,9 @@ lazy val root = (project in file("."))
   .settings(
     name := "Manejo_de_datos",
     libraryDependencies ++= Seq(
-      "org.apache.spark" %% "spark-core" % "3.2.0",
-      "org.apache.spark" %% "spark-sql" % "3.2.0",
-      "org.apache.spark" %% "spark-mllib" % "3.2.0" % "runtime"
+        "org.apache.spark" %% "spark-core" % "3.2.0",
+        "org.apache.spark" %% "spark-sql" % "3.2.0",
+        "org.apache.spark" %% "spark-mllib" % "3.2.0" % "runtime"
     ),
     libraryDependencies += munit % Test
   )
